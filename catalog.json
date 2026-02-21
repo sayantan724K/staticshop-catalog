@@ -5,6 +5,14 @@
   },
   "products": [
     {
+      "id": "prod-459c9b41-001",
+      "name": "Placeholder Electronics Item",
+      "category": "electronics",
+      "price": 0,
+      "stock": 0,
+      "rating": 0
+    },
+    {
       "id": 1,
       "name": "Leather Wallet",
       "category": "accessories",
