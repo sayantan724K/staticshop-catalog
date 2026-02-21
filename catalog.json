@@ -123,14 +123,6 @@
       "price": 199.0,
       "stock": 75,
       "rating": 4.7
-    },
-    {
-      "id": 15,
-      "name": "Sports Cap",
-      "category": "accessories",
-      "price": 299.0,
-      "stock": 48,
-      "rating": 4.1
     }
   ],
   "aggregations": {
